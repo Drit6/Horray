@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-shadow: 2px 2px 5px red;
+}
+li a {
+  display: block;
+  width: 60px;
+}
